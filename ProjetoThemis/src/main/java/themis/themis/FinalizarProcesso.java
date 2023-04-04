@@ -5,6 +5,7 @@ package themis.themis;
  * @author Ferna
  */
 public class FinalizarProcesso {
+    
     private int numProcesso;
     private int numAudiencia;
     public String tribunal;
